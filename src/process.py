@@ -40,7 +40,7 @@ def process_pdf(input, output):
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Fix InPost label format for .")
+    parser = argparse.ArgumentParser(description="Fix InPost label format to 4x6 inches.")
     parser.add_argument(
         "-i",
         "--input",
