@@ -1,0 +1,9 @@
+[project]
+name = "inpost-label-fixer"
+description = 'Convert InPost A4 shipping labels to 4x6 inches'
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pypdf==6.21.4",
+]
