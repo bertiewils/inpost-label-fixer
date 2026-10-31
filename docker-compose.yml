@@ -1,0 +1,6 @@
+services:
+  app:
+    image: ghcr.io/bertiewils/inpost-label-fixer:latest
+    build: .
+    ports:
+      - 8000:8000
