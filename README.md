@@ -16,6 +16,8 @@ curl -F file=@input.pdf localhost:8000/process -o label.pdf
 docker run -p 8000:8000 ghcr.io/bertiewils/inpost-label-fixer:latest
 ```
 
+To use as a share target on Apple devices see [docs/apple-shortcut.md](docs/apple-shortcut.md).
+
 ## Development
 
 ```
