@@ -15,7 +15,7 @@ Notes:
 
 For an importable shortcut, see [inpost-label-fix.shortcut](inpost-label-fix.shortcut).
 
-To se up manually:
+To set up manually:
 
 <img src="apple-shortcut.png" alt="Apple shortcut screenshot" width="450"/>
 
