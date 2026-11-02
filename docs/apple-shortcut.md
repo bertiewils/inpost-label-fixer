@@ -17,6 +17,6 @@ For an importable shortcut, see [inpost-label-fix.shortcut](inpost-label-fix.sho
 
 To se up manually:
 
-<img src="apple-shortcut.png" alt="drawing" width="450"/>
+<img src="apple-shortcut.png" alt="Apple shortcut screenshot" width="450"/>
 
-<img src="save-contents.png" alt="drawing" width="200"/>
+<img src="save-contents.png" alt="Save contents screenshot" width="200"/>
