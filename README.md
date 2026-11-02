@@ -3,7 +3,7 @@
 A CLI and API that accepts an InPost A4 shipping label and outputs the cropped 4x6" label for use with a label printer.
 
 > [!NOTE]
-> This extracts the label using the exact position shown in the example below. If your A4 has the label in a different position this won't work.
+> This extracts the label using the exact position shown in the example below. If your A4 has the label in a different position this won't work. See #7
 
 
 <img src="docs/example.png" alt="example label conversion" width="450"/>
