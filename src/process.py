@@ -47,11 +47,13 @@ def parse_args():
         "-i",
         "--input",
         help="path of the pdf to process",
+        required=True
     )
     parser.add_argument(
         "-o",
         "--output",
         help="path of the processed pdf to output",
+        required=True,
     )
     args = parser.parse_args()
     return args
